@@ -221,7 +221,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 .John__text._active {
   transform: translate(0px, 0px);
   opacity: 1;
-  transition: all 0.8s ease 0.4s;
+  transition: all 0.8s ease 0.2s;
 }
 
 .John__button {
@@ -241,7 +241,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 .John__button._active {
   transform: translate(0px, 0px);
   opacity: 1;
-  transition: all 0.8s ease 0.8s;
+  transition: all 0.8s ease 0.4s;
 }
 
 .John__button:hover {
@@ -513,17 +513,17 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 .works__column__one._active {
   opacity: 1;
   transform: translate(0px,0px);
-  transition: all 1.1s ease 0s;
+  transition: all 0.8s ease 0s;
 }
 .works__column__two._active {
   opacity: 1;
   transform: translate(0px,0px);
-  transition: all 1.1s ease 0.4s;
+  transition: all 0.8s ease 0.4s;
 }
 .works__column__three._active {
   opacity: 1;
   transform: translate(0px,0px);
-  transition: all 1.1s ease 0.8s;
+  transition: all 0.8s ease 0.8s;
 }
 
 @media (max-width: 792px){
